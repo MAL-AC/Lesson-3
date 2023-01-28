@@ -7,3 +7,5 @@
 * git info - control
 
 * git info - zakrepit znaniya
+
+* git added - chto nibud

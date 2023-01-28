@@ -11,3 +11,6 @@
 * git added - chto nibud
 
 * git install - ystanovki
+
+* git knowledge - ponyatno
+

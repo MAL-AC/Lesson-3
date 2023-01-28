@@ -9,3 +9,5 @@
 * git info - zakrepit znaniya
 
 * git added - chto nibud
+
+* git install - ystanovki

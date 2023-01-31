@@ -2,7 +2,9 @@
 
 ## Branch creating
 
-* *git branch* - komanda, otobrazayshaya spisok vetok i nashy текущею
+* *git branch* - команда, отображающая список веток и текущею.
+
+* *git branch_ branch_name* - команда, инициализирующую ветку с именем *branch_name*
 
 ## Branch merging
 
